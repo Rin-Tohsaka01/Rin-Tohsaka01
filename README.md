@@ -8,7 +8,6 @@ Hi! Feel free to edit or update this README as your skills, projects, or interes
 <h1 align="center" style="color:#1060c9;">
   Hi, I'm Rin-Tohsaka01!
 </h1>
-
 ## 👋 About Me
 
 Hey there! I’m a beginner developer and hobbyist, currently building web anime projects for fun and learning.  
