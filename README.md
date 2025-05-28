@@ -2,7 +2,8 @@
 Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
 
-<div class="tenor-gif-embed" data-postid="12035887274724107717" data-share-method="host" data-aspect-ratio="1.08734" data-width="100%"><a href="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717">Rin Fate Stay Night GIF</a>from <a href="https://tenor.com/search/rin-gifs">Rin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![rin](https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717)
+
 <h1 align="center" style="color:#1060c9;">
   Hi, I'm Rin-Tohsaka01!
 </h1>
