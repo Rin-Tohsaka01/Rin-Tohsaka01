@@ -9,10 +9,6 @@ Hi! Feel free to edit or update this README as your skills, projects, or interes
   Hi, I'm Rin-Tohsaka01!
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/true%20color-blue-yellow?style=for-the-badge&logoColor=white" alt="Blue and Yellow Theme" />
-</p>
-
 ## 👋 About Me
 
 Hey there! I’m a beginner developer and hobbyist, currently building web anime projects for fun and learning.  
@@ -26,10 +22,6 @@ I’m passionate about exploring new tech, and my journey is just getting starte
 ## 🌐 Social
 
 - **X (Twitter):** [@songyeon31](https://twitter.com/songyeon31)  
-
-## ✨ True Colors
-
-Blue & Yellow are my true colors—representing creativity, positivity, and a love for learning!
 
 ---
 
