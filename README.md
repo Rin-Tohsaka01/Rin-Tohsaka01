@@ -2,6 +2,6 @@
   <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717.gif" alt="Alt Text" width="400"/>
 </p>
 
-<h1 align="center" style="color:#1060c9;">
+<div align="center" style="color:#1060c9;">
   Hi, I'm Rin-Tohsaka
-</h1>
+</div>
