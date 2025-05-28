@@ -7,7 +7,7 @@ Hi! Feel free to edit or update this README as your skills, projects, or interes
 </div>
 
 <p align="center">
-  <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717" alt="Alt Text" width="400"/>
+  <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717.gif" alt="Alt Text" width="400"/>
 </p>
 
 <h1 align="center" style="color:#1060c9;">
