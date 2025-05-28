@@ -2,8 +2,9 @@
 Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
 
+![rin](https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717)
 <h1 align="center" style="color:#1060c9;">
-  Hi, I'm Rin-Tohsaka01! <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717" width="32"/>
+  Hi, I'm Rin-Tohsaka01!
 </h1>
 
 <p align="center">
