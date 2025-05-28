@@ -3,10 +3,5 @@
 </p>
 
 <div align="center" style="color:#1060c9;">
-  
-  <div style="font-size:2.5em>
   Hi, I'm Rin-Tohsaka
-    
-  </div>
-  
 </div>
