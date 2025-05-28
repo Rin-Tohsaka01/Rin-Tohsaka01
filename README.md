@@ -2,7 +2,7 @@
 Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
 
-![rin](https://imgur.com/zIvKFbS)
+![rin](https://imgur.com/gallery/rin-tohsaka-MGOlI71#/t/rin_tohsaka)
 
 <h1 align="center" style="color:#1060c9;">
   Hi, I'm Rin-Tohsaka01!
