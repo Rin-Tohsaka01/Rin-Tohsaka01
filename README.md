@@ -1,11 +1,6 @@
 <!--
 Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
-<div align="center">
-  
-![image](https://github.com/user-attachments/assets/6eefa451-24c2-4ba9-b59f-ebdb7931a4bf)
-</div>
-
 <p align="center">
   <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717.gif" alt="Alt Text" width="400"/>
 </p>
