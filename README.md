@@ -6,7 +6,7 @@ Hi! Feel free to edit or update this README as your skills, projects, or interes
 </p>
 
 <h1 align="center" style="color:#1060c9;">
-  Hi, I'm Rin-Tohsaka!
+  Hi, I'm Rin-Tohsaka
 </h1>
 
 ## 👋 About Me
