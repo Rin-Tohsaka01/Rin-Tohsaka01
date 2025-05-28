@@ -1,16 +1,38 @@
-## Hi there 👋
-
 <!--
-**Rin-Tohsaka01/Rin-Tohsaka01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
+
+<h1 align="center" style="color:#1060c9;">
+  Hi, I'm Rin-Tohsaka01! <img src="https://em-content.zobj.net/source/microsoft-teams/337/star_2b50.png" width="32"/>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/true%20color-blue-yellow?style=for-the-badge&logoColor=white" alt="Blue and Yellow Theme" />
+</p>
+
+## 👋 About Me
+
+Hey there! I’m a beginner developer and hobbyist, currently building web anime projects for fun and learning.  
+I’m passionate about exploring new tech, and my journey is just getting started!
+
+- 💻 **Tech Stack:** Next.js, React (TypeScript), Tailwind CSS, shadcn/ui
+- 🌌 **Current Focus:** Creating anime-inspired websites and tools
+- 🎮 **Favorite Game:** Wuthering Waves
+- 🏰 **Interests:** Celtic, Scottish, and English history, myths, and legends
+
+## 🌐 Social
+
+- **X (Twitter):** [@songyeon31](https://twitter.com/songyeon31)  
+- **Discord:** SongYJ
+
+## ✨ True Colors
+
+Blue & Yellow are my true colors—representing creativity, positivity, and a love for learning!
+
+---
+
+> “Every web I build is a new story—animated by code, inspired by legends.”
+
+---
+
+_Thanks for stopping by! Feel free to reach out or follow my journey._
