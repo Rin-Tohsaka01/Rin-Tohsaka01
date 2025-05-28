@@ -2,7 +2,8 @@
 Hi! Feel free to edit or update this README as your skills, projects, or interests grow!
 -->
 
-![https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717](https://imgur.com/zIvKFbS)
+![rin](https://imgur.com/zIvKFbS)
+
 <h1 align="center" style="color:#1060c9;">
   Hi, I'm Rin-Tohsaka01!
 </h1>
