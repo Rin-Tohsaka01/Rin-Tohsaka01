@@ -3,7 +3,7 @@ Hi! Feel free to edit or update this README as your skills, projects, or interes
 -->
 
 <h1 align="center" style="color:#1060c9;">
-  Hi, I'm Rin-Tohsaka01! <img src="https://em-content.zobj.net/source/microsoft-teams/337/star_2b50.png" width="32"/>
+  Hi, I'm Rin-Tohsaka01! <img src="https://tenor.com/view/rin-fate-stay-night-sigh-anime-girl-rin-tohsaka-gif-12035887274724107717" width="32"/>
 </h1>
 
 <p align="center">
@@ -23,7 +23,6 @@ I’m passionate about exploring new tech, and my journey is just getting starte
 ## 🌐 Social
 
 - **X (Twitter):** [@songyeon31](https://twitter.com/songyeon31)  
-- **Discord:** SongYJ
 
 ## ✨ True Colors
 
